@@ -17,3 +17,8 @@
   3. Switch to mobile view / mobile browser
 - **Expected Result:** Checkout button should work
 - **Actual Result:** Button not clickable
+
+**Commit message:** Added bug reports (Day 4)
+
+**Commit message:** Completed all test cases + added remaining bugs (Day 5)
+
