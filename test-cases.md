@@ -9,7 +9,7 @@
   2. Click Search
   3. Verify results are shown
 - **Expected Result:** Relevant mobile products should appear
-- **Status:** Not Executed
+- **Status:** Pass
 
 ## Test Case 2: Add to Cart
 - **ID:** TC002
@@ -20,4 +20,4 @@
   2. Open Cart
   3. Verify product is added
 - **Expected Result:** Product should be added to cart
-- **Status:** Not Executed
+- **Status:** Pass
