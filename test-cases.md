@@ -21,3 +21,5 @@
   3. Verify product is added
 - **Expected Result:** Product should be added to cart
 - **Status:** Pass
+
+**Commit message:** Updated test cases status (Day 3)
